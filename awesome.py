@@ -6,4 +6,4 @@ def awesome(list):
     return count
 
 
-print(awesome([400,200,100,50,25,5,1]))
+print(awesome([800,400,200,100,50,25,5,1]))

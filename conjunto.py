@@ -8,4 +8,4 @@ for i in range(len(lista))
     if lista[i+1]=lista[i]
 
 
-print function6([2,5,6,7,9,0,6,3,2])
+print function6([2,3,45,6,7,9,0,6,3,2])
